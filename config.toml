@@ -1,0 +1,37 @@
+baseURL = "https://komapc.github.io/"
+canonifyURLs  = "false"
+languageCode = "en-us"
+title = "BeMyGuest"
+theme = "ananke"
+
+[params]
+  author = "Mark Kahn"
+  description = "BeMyGuest Site"
+
+[menu]
+
+  [[menu.main]]
+      identifier = "home"
+      name = "home"
+      pre = "<i class='fa fa-heart'></i>"
+      url = "/"
+      weight = -110
+
+    [[menu.main]]
+      identifier = "about"
+      name = "about us"
+      pre = "<i class='fa fa-heart'></i>"
+      url = "/about/"
+      weight = -110
+
+    [[menu.main]]
+      name = "screens"
+      pre = "<i class='fa fa-road'></i>"
+      url = "/screens/"
+      weight = -80
+
+    [[menu.main]]
+      name = "contacts"
+      pre = "<i class='fa fa-road'></i>"
+      url = "/contacts/"
+      weight = -70
