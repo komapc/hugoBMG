@@ -1,4 +1,4 @@
-baseURL = "https://komapc.github.io/"
+baseURL = "https://dining-philosophers.com/"
 canonifyURLs  = "false"
 languageCode = "en-us"
 title = "BeMyGuest"
