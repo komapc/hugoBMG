@@ -7,10 +7,7 @@ draft: false
 | Problem      | Solution |
 | ------------ | -------- |
 |  **Household food loss**|
-| A huge amount of surplus food is thrown away because people often cook more than they can eat.
-(Food waste in households is the largest  portion of all food waste; one-third of it is caused by over-preparing and over-serving [foodprint](https://foodprint.org/issues/the-problem-of-food-waste))|
-We encourage people to share the food surplus with other people.
-
+| A huge amount of surplus food is thrown away because people often cook more than they can eat. <br>(Food waste in households is the largest  portion of all food waste; one-third of it is caused by over-preparing and over-serving [foodprint](https://foodprint.org/issues/the-problem-of-food-waste))|We encourage people to share the food surplus with other people.|
 |**Social**| 
 |Although people usually don’t like to eat alone (and researches show that this is not recommended: [Time](https://time.com/4995466/eating-alone-metabolic-syndrome/), [theguardian](https://www.theguardian.com/science/2018/jul/06/is-it-true-that-eating-alone-is-bad-for-you), there is no socially acceptable way to share a meal with a stranger.<br>Even when people have a food surplus, they feel confused to invite neighbors or strangers for a lunch.| The application provides a convenient and safe way to eat with a stranger.|
 | **Tourist traps**|
